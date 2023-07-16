@@ -10,8 +10,11 @@
 ### Bluetooth application
 <img src="https://github.com/aishawaziry/Incubator/assets/81515483/7409633b-89fa-4790-a5b8-550353b9f8a4" width="800" height="500"/>
 <img src="https://github.com/aishawaziry/Incubator/assets/81515483/8d2c1541-3e6b-4684-9c45-6cc7a94128b1" width="800" height="500"/>
+
 ### hypotension demo video 
+
 https://github.com/aishawaziry/Hypotension-Measurement/assets/81515483/a30aa4b4-542c-429f-bac5-7b9c72384062
+
 ## IDE:
     - Arduino
 
