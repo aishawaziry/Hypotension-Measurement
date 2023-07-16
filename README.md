@@ -9,7 +9,7 @@
 
 ### Bluetooth application
 ![WhatsApp Image 2023-07-16 at 19 28 52](https://github.com/aishawaziry/Incubator/assets/81515483/7409633b-89fa-4790-a5b8-550353b9f8a4)
-<img src="https://github.com/aishawaziry/Incubator/assets/81515483/7409633b-89fa-4790-a5b8-550353b9f8a4" width="200" />
+<img src="https://github.com/aishawaziry/Incubator/assets/81515483/7409633b-89fa-4790-a5b8-550353b9f8a4" width="400" />
 
 ![WhatsApp Image 2023-07-16 at 19 28 52 (1)](https://github.com/aishawaziry/Incubator/assets/81515483/8d2c1541-3e6b-4684-9c45-6cc7a94128b1)
 ### hypotension demo video 
